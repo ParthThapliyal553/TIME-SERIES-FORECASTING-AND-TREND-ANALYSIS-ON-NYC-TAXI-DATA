@@ -48,21 +48,9 @@ This Streamlit web application is designed to allow users to **upload a CSV file
 
 ---
 
-## 📦 How to Run Locally
-
-```bash
-pip install -r requirements.txt
-streamlit run app.py
-```
 
 ---
 
-## ☁️ Deploy on Streamlit Cloud
-
-1. Push this repo to GitHub
-2. Go to [streamlit.io/cloud](https://streamlit.io/cloud)
-3. Choose your repo and select `app.py` as the main file
-4. Deploy and share your app with others
 
 ---
 
